@@ -1,152 +1,73 @@
-# DSA Notes and Practice
+# 🚀 Striver's A to Z DSA Sheet – Coding Journey
 
-This repository is a C++ and DSA practice space. It contains concept notes, pattern practice, and small code files for revision.
+Welcome to my Data Structures and Algorithms (DSA) repository! This space is dedicated to tracking my progress, code implementations, and conceptual notes as I conquer **Striver’s A to Z DSA Sheet**.
 
-## File Structure
+My core objective is to master problem-solving paradigms, understand algorithmic efficiency, and write clean, production-grade code in both **C++** and **Java**.
 
-```text
-DSA/
-├── README.md
-└── Basics/
-    ├── Basics.md
-    ├── Hashing.md
-    ├── Maths.md
-    ├── Patterns.md
-    ├── Recursion.md
-    ├── STL.md
-    └── Code/
-        ├── maths.cpp
-        ├── patterns.cpp
-        └── tempCodeRunnerFile.cpp
-```
+---
 
-## Topics Covered in the Shared Repo
+## 🛠️ Languages & Ecosystem
 
-The shared repository organizes its DSA content around these major topics and practice collections:
+* **Languages:** C++ (Standard Template Library - STL) & Java (Collections Framework)
+* **Platforms:** LeetCode, GeeksforGeeks (GFG), and Code 360 (Coding Ninjas)
+* **Editor/IDE:** VS Code / IntelliJ IDEA
 
-### Core DSA Topics
+---
 
-- LeetCode All Problems Solutions
-- Dynamic Programming
-- Sorting Algorithms
-- LinkedList
-- Object-Oriented Programming
-- Binary Trees
-- Graph Algorithms
-- Heap
-- Matrix
-- Trie
-- Binary Search
-- Backtracking
-- Stack
-- Queue
-- Greedy
-- String
-- Bit Manipulation
-- Array
-- HashMap
-- DFS BFS
-- Two Pointers
-- Math
-- Recursion
+## 📊 Roadmap & Progress Tracker
 
-## Repository Progress Tracker
+Below is the exhaustive, 18-step tracking table mapped directly to the Striver A to Z curriculum. Update the status column as you complete each section.
 
-This tracker shows the current learning progress in this repository.
+| Step | Core Topic / Module | Status |
+| :---: | :--- | :---: |
+| **1** | **Learn the Basics** (C++/Java Syntax, Time Complexity, Recursion, Hashing) | 🔄 In Progress |
+| **2** | **Sorting Techniques** (Bubble, Selection, Insertion, Merge, Quick, Core concepts) | ⏳ Not Started |
+| **3** | **Problems on Arrays** (Easy, Medium, Hard interview problems) | ⏳ Not Started |
+| **4** | **Binary Search** (1D, 2D Arrays, and Search Space Optimization) | ⏳ Not Started |
+| **5** | **Strings** (Basic manipulation to Advanced Interview questions) | ⏳ Not Started |
+| **6** | **Learn LinkedList** (Singly, Doubly, Medium, and Hard Problems) | ⏳ Not Started |
+| **7** | **Recursion & Backtracking** (Subsequences, Subsets, and Combinations) | ⏳ Not Started |
+| **8** | **Bit Manipulation** (Bitwise hacks, Interview problems, Advanced concepts) | ⏳ Not Started |
+| **9** | **Stacks & Queues** (Implementation, Monotonic Stack/Queue problems) | ⏳ Not Started |
+| **10** | **Sliding Window & Two Pointers** (Subarray optimization techniques) | ⏳ Not Started |
+| **11** | **Heaps / Priority Queues** (Min/Max Heap construction, Stream processing) | ⏳ Not Started |
+| **12** | **Greedy Algorithms** (Scheduling, Interval merging, Knapsack variants) | ⏳ Not Started |
+| **13** | **Binary Trees & BSTs** (Traversals, Properties, Hard Interview questions) | ⏳ Not Started |
+| **14** | **Graphs** (BFS, DFS, Shortest Paths, MST, Topological Sort) | ⏳ Not Started |
+| **15** | **Dynamic Programming** (1D, 2D, Grids, Knapsack, Stocks, Matrix Chain) | ⏳ Not Started |
+| **16** | **Tries** (Prefix Trees, Pattern matching, XOR maximum queries) | ⏳ Not Started |
+| **17** | **Advanced Strings** (KMP Algorithm, Rabin-Karp, Z-Function) | ⏳ Not Started |
+| **18** | **Segment Trees & Fenwick Trees** (Range Query & Point Update frameworks) | ⏳ Not Started |
 
-| Area | Status | Notes |
-| --- | --- | --- |
-| Basics | Done | Core C++ foundation notes are written in `Basics/Basics.md`. |
-| Patterns | Done | Pattern logic and worked examples are in `Basics/Patterns.md` and `Basics/Code/patterns.cpp`. |
-| Maths | Pending | `Basics/Maths.md` and `Basics/Code/maths.cpp` are ready for expansion. |
-| Hashing | Pending | `Basics/Hashing.md` is ready for notes and examples. |
-| Recursion | Pending | `Basics/Recursion.md` is ready for recursion patterns and practice. |
-| STL | Pending | `Basics/STL.md` is ready for standard library notes. |
+> **Legend:** ⏳ *Not Started* | 🔄 *In Progress* | ✅ *Completed*
 
-## Competitive Profiles
+---
+
+## 👨‍💻 Coding Profiles
 
 | Platform | Profile |
-| --- | --- |
-| LeetCode | [leetcode.com/u/Param-M/](https://leetcode.com/u/Param-M/) |
-| Codeforces | [codeforces.com/profile/Param-M](https://codeforces.com/profile/Param-M) |
-| AtCoder | [atcoder.jp/users/Paam24](https://atcoder.jp/users/Paam24) |
-| CodeChef | [codechef.com/users/paam24](https://www.codechef.com/users/paam24) |
+| :--- | :--- |
+| LeetCode | [Param-M](https://leetcode.com/u/Param-M/) |
+| Codeforces | [Param-M](https://codeforces.com/profile/Param-M) |
+| AtCoder | [Paam24](https://atcoder.jp/users/Paam24) |
+| CodeChef | [paam24](https://www.codechef.com/users/paam24) |
 
-## Progress Tracker
+| LeetCode Heatmap |
+| :---: |
+| ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Param-M?theme=dark&font=Baloo&ext=heatmap) |
 
-| Platform | Current Snapshot |
-| --- | --- |
-| LeetCode | 30 problems solved, max streak 28 days, contest rating 1480 |
-| Codeforces | Newbie, rating 812, 4 problems solved all time |
-| AtCoder | 14 Kyu, rating 32, 1 rated match |
-| CodeChef | 1 problem solved, submissions heat map available on profile |
+---
 
-## Heatmaps and Trackers
+## 💡 Engineering & Problem-Solving Framework
 
-### LeetCode
+For every problem added to this repository, I document and structure my workflow across three core stages:
 
-You can view the profile heatmap and activity on the public profile page.
+1. **Brute Force:** Identifying the most immediate, naive approach. Analyzing why it fails or hits TLE (Time Limit Exceeded).
+2. **Optimized Approach:** Utilizing efficient data structures to drive down Time Complexity ($O(N \log N)$ or $O(N)$) and keeping Space Complexity within optimal parameters ($O(1)$ wherever possible).
+3. **Cross-Language Implementation:**
+   * **C++:** Leveraging pointers, reference passing, and rapid execution.
+   * **Java:** Emphasizing explicit object references, type safety, and robust memory management.
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/Param-M?theme=dark&font=Baloo&ext=heatmap)
+---
 
-### CodeChef
-
-The CodeChef profile includes a public submissions heat map.
-
-[Open CodeChef Profile](https://www.codechef.com/users/paam24)
-
-### Codeforces
-
-Use the profile page for rating history and contest activity.
-
-[Open Codeforces Profile](https://codeforces.com/profile/Param-M)
-
-### AtCoder
-
-Use the profile page for rating and contest history.
-
-[Open AtCoder Profile](https://atcoder.jp/users/Paam24)
-
-## Repository Stats
-
-These are the repository-style trackers inspired by the shared repo layout.
-
-| Tracker | Status | Notes |
-| --- | --- | --- |
-| Stars | Pending publish | GitHub star count appears after this repo is published. |
-| Watchers | Pending publish | GitHub watcher count appears after this repo is published. |
-| Forks | Pending publish | GitHub fork count appears after this repo is published. |
-| Size | Local only | The repo is currently a small C++ notes workspace. |
-| Hits | Not tracked locally | A visit counter can be added later if the repo is hosted. |
-
-## Releases
-
-No public releases are published yet.
-
-## Packages
-
-No packages are published yet.
-
-## Contributors
-
-| Contributor | Role |
-| --- | --- |
-| [Param-M](https://github.com/Param-M) | Maintainer |
-
-## Languages
-
-| Language | Use in Repo |
-| --- | --- |
-| C++ | Problem-solving and pattern code inside `Basics/Code/` |
-| Markdown | Concept notes and repository documentation |
-
-## Stargazers Over Time
-
-This tracker becomes meaningful after the repository is published on GitHub.
-
-- Add a GitHub stars history chart once the repo has public activity.
-- Keep this section near the bottom so it mirrors the shared repo layout.
-
-## Contributing
-
-This repository is meant for consistent practice and clean revision notes. Small improvements, better explanations, and new practice files are all welcome.
+⭐ *Give this repository a star if you're navigating your own DSA journey or found my solutions helpful!*

@@ -301,6 +301,7 @@ int main(){
     int t;
     cout << "Enter the number of rows: ";
     cin >> t;
+    // call whichever patterns you want to see
      P19(t);
     return 0;
 }
